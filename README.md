@@ -1,9 +1,5 @@
 # Computational Drug Discovery Internship at Merck
-
-
 ![Merck logo](https://thumbor.forbes.com/thumbor/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fi.forbesimg.com%2Fmedia%2Flists%2Fcompanies%2Fmerck-co_416x416.jpg)
-
-
 **Introduction** 
 
 :page_facing_up:: As of *January 2019*, a publication is underway related to the `Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow`. 
