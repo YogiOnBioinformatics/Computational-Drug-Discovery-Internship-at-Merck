@@ -4,7 +4,7 @@
 
 :page_facing_up:: As of *January 2019*, a publication is underway related to the `Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow Using a Run Sequence Wizard`. 
 
-This repository contains documents related to the work done at [Merck](https://www.merck.com/index.html) pharmaceutical company in the summer of 2018 as a Computational Drug Discovery Intern at West Point, PA. Information excludes all proprietary information belonging to Merck & Co. 
+This repository contains documents related to the work done at [Merck](https://www.merck.com/index.html) pharmaceutical company in the summer of 2018 as a Computational Drug Discovery Intern at West Point, PA. **Information excludes all proprietary information belonging to Merck & Co.**
 
 I specifically worked in the Merck Research Laboratories (MRL) :arrow_forward: Pharmacokinetics, Pharmacodynamics and Drug Metabolism (PPDM) :arrow_forward: Discovery Bioanalytical (DBA) group. 
 
