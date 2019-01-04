@@ -2,7 +2,7 @@
 
 **Introduction** 
 
-![pic](http://www.clker.com/cliparts/9/C/j/d/g/X/note-md.png){:height="50px" width="50px"}: As of *January 2019*, a publication is underway related to the `Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow`. 
+![pic](http://www.clker.com/cliparts/9/C/j/d/g/X/note-md.png){ width=50% }: As of *January 2019*, a publication is underway related to the `Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow`. 
 
 This repository contains documents related to the work done at [Merck](https://www.merck.com/index.html) pharmaceutical company in the summer of 2018 as a Computational Drug Discovery Intern at West Point, PA. Information excludes all proprietary information belonging to Merck & Co. 
 
