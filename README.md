@@ -8,7 +8,7 @@ This repository contains documents related to the work done at [Merck](https://w
 
 I specifically worked in the Merck Research Laboratories (MRL) :arrow_forward: Pharmacokinetics, Pharmacodynamics and Drug Metabolism (PPDM) :arrow_forward: Discovery Bioanalytical (DBA) group. 
 
-During my WONDERFUL time there in the summer, I was involved with two projects which are explained in `PDF` documents in this repository. A brief explanation of each `PDF` document is provided below. 
+During my WONDERFUL time there in the summer, I was involved with two projects which are explained in `PDF` documents in this repository. A brief explanation of each `PDF` document is provided below. I also was able to learn and **experience first-hand** the process of pharmaceutical drug development. 
 
 
 **Contact Information** 
