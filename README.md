@@ -11,7 +11,9 @@ I specifically worked in the Merck Research Laboratories (MRL) :arrow_forward: P
 During my WONDERFUL time there in the summer, I was involved with two projects which are explained in `PDF` documents in this repository. A brief explanation of each `PDF` document is provided below. I also was able to learn and **experience first-hand** the process of pharmaceutical drug development. 
 
 
-**Files** 
+<p align = "center">
+  <b>Files</b>
+</p>
 
 `Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow Using a Run Sequence Wizard.pdf` 
 
