@@ -23,6 +23,14 @@ This is the explanation of the main project I did over the summer at Merck in a 
 
 Side project undertaken during Bioinformatics Internship at Merck that :exclamation: **led to novel drug targets that Merck is currently studying for creation of new therapeutics.** :exclamation:
 
+📜`Merck Research Symposium.pdf`
+
+Explanation of event and effects of my poster that occured at annual research symposium at Merck to which **I was invited**. 
+
+📜`Invited Talk.pdf` 
+
+Explanation of talk that I gave to a specific Merck department which occured after **I was invited by the director of the department along with an upper-level scientist** since they felt my work could have a direct impact on their department. 
+
 **Contact Information** 
 
 ![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
