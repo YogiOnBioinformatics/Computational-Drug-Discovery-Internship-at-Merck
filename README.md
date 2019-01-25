@@ -17,7 +17,7 @@
 
 📜`Main Project/ Automation of the Liquid Chromatography-Mass Spectrometry (LC-MS) Workflow Using a Run Sequence Wizard.pdf` 
 
-This is the explanation of the main project I did over the summer at Merck in a :exclamation:VERY DETAILED:exclamation: manner. The beginning of the document has some main points for those that do not want to read through the whole document. 
+This is the explanation of the main project I did over the summer at Merck in a :exclamation: **VERY DETAILED** :exclamation: manner. The beginning of the document has some main points for those that do not want to read through the whole document. 
 
 📜`Side Project/ Protein Drug-Target Scoring Python Script.pdf` 
 
